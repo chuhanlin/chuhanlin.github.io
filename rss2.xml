@@ -9,34 +9,8 @@
     <atom:link href="http://www.infinite-lab.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Sat, 05 Apr 2025 08:44:27 GMT</pubDate>
+    <pubDate>Fri, 30 Aug 2024 13:32:57 GMT</pubDate>
     <generator>http://hexo.io/</generator>
-    
-    <item>
-      <title>Markdown文件是什么</title>
-      <link>http://www.infinite-lab.top/2025/01/26/md%E6%96%87%E4%BB%B6%E6%98%AF%E4%BB%80%E4%B9%88/</link>
-      <guid>http://www.infinite-lab.top/2025/01/26/md%E6%96%87%E4%BB%B6%E6%98%AF%E4%BB%80%E4%B9%88/</guid>
-      <pubDate>Sun, 26 Jan 2025 09:49:56 GMT</pubDate>
-      
-        
-        
-      <description>&lt;p&gt;&lt;a href=&quot;https://markdown.com.cn/&quot;&gt;Markdown&lt;/a&gt; 是一种轻量级标记语言，排版语法简洁，让人们更多地关注内容本身而非排版。它使用易读易写的纯文本格式编写文档，可与 HTML 混编，可导出 HTML、PDF 以及本身的 .md 格式</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<p><a href="https://markdown.com.cn/">Markdown</a> 是一种轻量级标记语言，排版语法简洁，让人们更多地关注内容本身而非排版。它使用易读易写的纯文本格式编写文档，可与 HTML 混编，可导出 HTML、PDF 以及本身的 .md 格式的文件。因简洁、高效、易读、易写，Markdown 被大量使用，如 Github、Wikipedia、简书等。</p><h2 id="Markdown-优点"><a href="#Markdown-优点" class="headerlink" title="Markdown 优点"></a>Markdown 优点</h2><p>纯文本编辑，只要是支持 Markdown 编辑的都能获得同样的结果，摆脱排版苦恼<br>学习成本低，常用的语法很少，简单易学快速上手<br>支持跨平台同步数据<br>支持插入图片、视频等<br>随时修改，不必担心 word 等工具出现排版错误。</p><h2 id="为什么要使用-Markdown？"><a href="#为什么要使用-Markdown？" class="headerlink" title="为什么要使用 Markdown？"></a>为什么要使用 Markdown？</h2><p>当你可以通过按下界面中的按钮来设置文本格式时，为什么还要使用 Markdown 来书写呢？使用 Markdown 而不是 word 类编辑器的原因有：</p><h3 id="Markdown-无处不在"><a href="#Markdown-无处不在" class="headerlink" title="Markdown 无处不在"></a>Markdown 无处不在</h3><p>StackOverflow、CSDN、掘金、简书、GitBook、有道云笔记、V2EX、光谷社区等。主流的代码托管平台，如 GitHub、GitLab、BitBucket、Coding、Gitee 等等，都支持 Markdown 语法，很多开源项目的 README、开发文档、帮助文档、Wiki 等都用 Markdown 写作。</p><h3 id="Markdown-是纯文本可移植的。"><a href="#Markdown-是纯文本可移植的。" class="headerlink" title="Markdown 是纯文本可移植的。"></a>Markdown 是纯文本可移植的。</h3><p>几乎可以使用任何应用程序打开包含 Markdown 格式的文本文件。如果你不喜欢当前使用的 Markdown 应用程序了，则可以将 Markdown 文件导入另一个 Markdown 应用程序中。这与 Microsoft Word 等文字处理应用程序形成了鲜明的对比，Microsoft Word 将你的内容锁定在专有文件格式中。</p><h3 id="Markdown-能适应未来的变化。"><a href="#Markdown-能适应未来的变化。" class="headerlink" title="Markdown 能适应未来的变化。"></a>Markdown 能适应未来的变化。</h3><p>即使你正在使用的应用程序将来会在某个时候不能使用了，你仍然可以使用文本编辑器读取 Markdown 格式的文本。当涉及需要无限期保存的书籍、大学论文和其他里程碑式的文件时，这是一个重要的考虑因素。</p><h2 id="Markdown-有什么用？"><a href="#Markdown-有什么用？" class="headerlink" title="Markdown 有什么用？"></a>Markdown 有什么用？</h2><p>Markdown 是做笔记、为网站创建内容以及生成可打印文档的快速、简便的方法。</p><p>学习 Markdown 语法并不需要很长时间，一旦你知道如何使用它，你就可以在几乎所有地方使用 Markdown 进行书写了。大多数人使用 Markdown 来为网站创建内容，但是 Markdown 也可以很好地格式化从电子邮件到购物清单的所有内容。</p><p>下面是一些你可以使用 Markdown 的场景。</p><h3 id="网站"><a href="#网站" class="headerlink" title="网站"></a>网站</h3><p>Markdown 是为 web 而设计的，因此，市面上有很多专门用于创建网站内容的应用程序就不足为奇了。</p><p>如果您熟悉 HTML、CSS 和版本管理工具，请试试 <a href="https://jekyllcn.com/docs/home/">Jekyll</a>，这是一个广受欢迎的静态网站生成器，它能将 Markdown 文件并构建为 HTML 网站。这种方法的优势之一是 <a href="https://github.com/">GitHub Pages</a> 为 Jekyll 生成的网站提供免费托管服务。</p><h3 id="文件资料"><a href="#文件资料" class="headerlink" title="文件资料"></a>文件资料</h3><p>Markdown 并不具备像 Microsoft Word 这样的文字处理程序的所有功能，但是对于创建基本文件（例如作业和信件）来说已经足够了。你可以使用 Markdown 文档创作工具来创建 Markdown 格式的文档并将其导出为 PDF 或 HTML 格式。PDF 格式是关键，因为一旦有了 PDF 文档，您就可以使用它进行任何操作：打印、通过电子邮件发送或将其上传到网站。</p><p>这是我推荐的一些 Markdown 文档创作工具：</p><p>现代编辑器<br>VSCode &#x2F; Atom</p><p>传统编辑器<br>Vim &#x2F; Emacs &#x2F; Sublime Text &#x2F; Notepad++</p><p>IDE 自带编辑器<br>IntelliJ IDEA &#x2F; Android Studio &#x2F; WebStorm</p><p>专用编辑器<br>Ulysses &#x2F; Mou &#x2F; 妙言 &#x2F; Markpad</p><h3 id="邮件"><a href="#邮件" class="headerlink" title="邮件"></a>邮件</h3><p>如果你需要发送大量电子邮件，并且对大多数电子邮件提供商网站上可用的格式设置控件感到厌倦，那么你将很高兴地发现有一种使用 Markdown 编写电子邮件的简便方法：[Markdown Here] 是一个免费、开源的浏览器扩展程序，可将 Markdown 格式的文本转换为可用于发送的 HTML。</p><h2 id="Markdown-编辑器"><a href="#Markdown-编辑器" class="headerlink" title="Markdown 编辑器"></a>Markdown 编辑器</h2><p>这里推荐 <a href="https://code.visualstudio.com/">vscode</a>。原因是拥有强大的扩展插件支持。</p>]]></content:encoded>
-      
-      
-      <category domain="http://www.infinite-lab.top/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/">前端开发</category>
-      
-      
-      <category domain="http://www.infinite-lab.top/tags/hexo/">hexo</category>
-      
-      
-      <comments>http://www.infinite-lab.top/2025/01/26/md%E6%96%87%E4%BB%B6%E6%98%AF%E4%BB%80%E4%B9%88/#disqus_thread</comments>
-      
-    </item>
     
     <item>
       <title>Hello World</title>
