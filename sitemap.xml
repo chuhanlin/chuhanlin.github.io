@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://www.infinite-lab.top/2025/01/26/md%E6%96%87%E4%BB%B6%E6%98%AF%E4%BB%80%E4%B9%88/</loc>
+    
+    <lastmod>2025-04-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.infinite-lab.top/useragreement/index.html</loc>
     
     <lastmod>2025-02-10</lastmod>
@@ -41,15 +50,6 @@
     <loc>http://www.infinite-lab.top/fcircle/index.html</loc>
     
     <lastmod>2024-09-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.infinite-lab.top/2024/09/21/hello-world/</loc>
-    
-    <lastmod>2024-08-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -100,6 +100,20 @@
   </url>
 
   
+  <url>
+    <loc>http://www.infinite-lab.top/tags/hexo/</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://www.infinite-lab.top/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
